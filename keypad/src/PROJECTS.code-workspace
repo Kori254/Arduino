@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/PROJECTS"
+		},
+		{
+			"name": "Arduino",
+			"path": "../../Arduino"
+		},
+		{
+			"name": "keypad",
+			"path": ".."
+		},
+		{
+			"name": "heart sensor",
+			"path": "../../heart sensor"
+		},
+		{
+			"name": "espn32",
+			"path": "../../espn32"
+		}
+	],
+	"settings": {}
+}
