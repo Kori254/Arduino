@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 // Change the credentials below, so your ESP8266 connects to your router
-const char* ssid = "Gearbox Staff";
-const char* password = "Staff@Gearbox";
+const char* ssid = "SSID";
+const char* password = "WIFI PASSWORD";
 
 // Change the variable to your Raspberry Pi IP address, so it connects to your MQTT broker
 const char* mqtt_server = "192.168.0.212";
