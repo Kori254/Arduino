@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../raspberry"
+		},
+		{
+			"name": "keypad",
+			"path": "../../keypad"
+		},
+		{
+			"name": "RFID",
+			"path": ".."
+		},
+		{
+			"name": "trial",
+			"path": "../../trial"
+		},
+		{
+			"name": "Arduino",
+			"path": "../../Arduino"
+		}
+	],
+	"settings": {}
+}
