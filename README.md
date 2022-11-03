@@ -1,2 +1,2 @@
 # Arduino
-Projects that deal with arduino
+Projects that deal with arduino.
